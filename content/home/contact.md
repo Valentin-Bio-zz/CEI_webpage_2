@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Al costado del Centro de Estudios en alimentos Procesados (CEAP)
+  directions: Al costado del Centro de Estudios en Alimentos Procesados (CEAP)
   office_hours:
     - 'Lunes 10:00 a 13:00'
     - 'Viernes 09:00 a 10:00'

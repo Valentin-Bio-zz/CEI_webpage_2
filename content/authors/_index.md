@@ -1,10 +1,10 @@
 ---
 _build:
-  render: never
+  render: always
 cascade:
   _build:
     list: always
-    render: never
+    render: always
 cms_exclude: true
 active: true
 ---
