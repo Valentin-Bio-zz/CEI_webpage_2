@@ -3,7 +3,9 @@ content:
   user_groups:
   - Director
   - Investigadores principales
-  - Investigadores
+  - Investigadores Asociados
+  - Investigadores Post Doctorales
+  - Investigadores Doctorales
   - Estudiantes Magister
   - Asistentes 
   - Administración
@@ -13,12 +15,11 @@ design:
   show_interests: false
   show_role: true
   show_social: true
-headless: true
+headless: false
 subtitle: null
 title: Equipo
 weight: 68
 widget: people
-active: true
 ---
 
 

@@ -1,17 +1,20 @@
 ---
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-email: ""
+email: "mromero@utalca.cl"
 highlight_name: true
 interests:
 - Ecología de plantas
-- Microbiología
-- Bioprospección
+- Ecología evolutiva
+
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
 role: Asistente de laboratorio
 social:
+- icon: envelope
+  icon_pack: fas
+  link: mromero@utalca.cl
 
 superuser: true
 title: Maria José Romero

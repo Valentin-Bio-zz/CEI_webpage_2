@@ -1,23 +1,23 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
+email: "iacuna@utalca.cl"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008  
-email: ""
+  - course: Ph.D. In Biology – Applied Ecology
+    institution: Universidad de La Serena
+    
+  - course: M.Sc. Biological Sciences - Botany
+    institution: Universidad de Concepción
+    
+  - course: B.Sc. In Ecology
+    institution: Pontificia Universidad Javeriana (Col)
+    
+email: "iacuna@utalca.cl"
 highlight_name: false
 interests:
 - Ecología de plantas
-- Microbiología
-- Bioprospección
+- Biología polar
+- Interacciones bioticas
 organizations:
 - name: Universidad de Talca
   url: ""
@@ -25,21 +25,14 @@ role: POST DOC
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: iacuna@utalca.cl
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?hl=es&user=LRVm2cUAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.es/citations?user=PJxUrloAAAAJ&hl=es&oi=ao
+
 superuser: true
 title: Ian Acuña
-user_groups: ["Investigadores"]
+user_groups: ["Investigadores Post Doctorales"]
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mis intereses de investigación se enmarcan en la genética del paisaje, la ecología evolutiva, la plasticidad fenotípica y la las interacciones planta-planta ó planta-animal. Busco identificar los procesos y factores más relevantes en las dinámicas ecológicas para su posterior aplicación estratégica en restauración, manejo productivo y conservación de los ecosistemas.

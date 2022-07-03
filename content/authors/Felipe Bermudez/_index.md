@@ -1,23 +1,29 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: ""
+email: "fsharpbermudez@gmail.com"
+education:
+ courses:
+ - course: Doctorado en Biotecnología 
+   institution: Universidad nacional Andrés Bello.
+ - course: Ingeniería en biotecnología
+   institution: Universidad nacional Andrés Bello.
 email: ""
 highlight_name: true
 interests:
-- Ecología de plantas
+- Biotecnología
 - Microbiología
 - Bioprospección
 organizations:
-- name: Universidad de Talca
-  url: https://www.utalca.cl/
-role: Alumno Doctorado
+- name: Universidad Nacional Andrés Bello
+  url: https://www.unab.cl
+role: Estudiante Doctorado
 social:
-
+ - icon: envelope
+   icon_pack: fas
+   link: fsharpbermudez@gmail.com
 superuser: true
 title: Felipe Bermudez
-user_groups: ["Investigadores"]
+user_groups: ["Investigadores Doctorales"]
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ingeniero en Biotecnología de la Universidad Andrés Bello. Actualmente cursando el Doctorado en Biotecnología en la misma casa de estudios. Tengo experiencia en muestreo de agua, suelo y aire, también de análisis microbiológico de agua y uso de herramientas bioinformáticas. Actualmente trabajo en mi tesis denominada “Dinámica genómica funcional de las comunidades microbianas del Fiordo Comau” a cargo del Dr. Eduardo Castro y bajo el proyecto Fondecyt Regular 1200834 dirigido también por el Dr. Castro.

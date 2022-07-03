@@ -1,6 +1,7 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: ""
+
+
 email: ""
 highlight_name: true
 interests:
@@ -15,7 +16,7 @@ social:
 
 superuser: true
 title: Sergio Guajardo
-user_groups: ["Investigadores"]
+user_groups: ["Investigadores Post Doctorales"]
 ---
 
 Centro de Ecología Integrativa (CEI), Universidad de Talca Departamento de Microbiología, Facultad de Ciencias de la Salud, Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile.

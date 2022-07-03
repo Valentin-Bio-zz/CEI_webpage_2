@@ -41,7 +41,7 @@ content:
   office_hours:
     - 'Lunes 10:00 a 13:00'
     - 'Viernes 09:00 a 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url:
   contact_links:
   
 
