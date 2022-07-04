@@ -4,12 +4,12 @@ external_link: ""
 image:
   caption: Base cientifica de Bahía de Huinay, fiordo Comau
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#slides: example
 summary: ""
 tags:
 - ""

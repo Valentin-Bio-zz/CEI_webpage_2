@@ -4,12 +4,12 @@ external_link: ""
 image:
   caption: Mountains nearby Risopatrón Station - February 2022
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#slides: example
 summary: ""
 tags:
 - ""

@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Búsqueda a través de filtros por medio de [filtro de publicaciones](./publicaciones/).
+Búsqueda a través de filtros por medio de [filtro de publicaciones](./publication/).
 {{% /callout %}}

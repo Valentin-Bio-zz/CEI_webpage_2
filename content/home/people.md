@@ -1,4 +1,5 @@
 ---
+active: true
 content:
   user_groups:
   - Director
