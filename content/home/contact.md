@@ -35,8 +35,8 @@ content:
     country: Chile
     country_code: CL
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '-35.405166'
+    longitude: '-71.633733'
   directions: Al costado del Centro de Estudios en Alimentos Procesados (CEAP)
   office_hours:
     - 'Lunes 10:00 a 13:00'
