@@ -96,7 +96,7 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: Intereses
 
 - id: education
   translation: Education
@@ -154,7 +154,7 @@
   translation: Abstract
 
 - id: publication
-  translation: Publication
+  translation: Publicaciones
 
 - id: publication_type
   translation: Type

@@ -17,8 +17,5 @@ title: Centro de Ecología Integrativa
 user_groups: ["Researchers"]
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+El vasto y complejo conjunto de factores detrás de todo proceso natural suele exigir la participación de diferentes saberes en su comprensión. Nuestro objetivo es converger en el estudio de los fenómenos ecológicos desde diferentes especialidades a través de un enfoque multiescala.
 
