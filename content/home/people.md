@@ -4,9 +4,9 @@ content:
   user_groups:
   - Director
   - Investigadores principales
-  - Investigadores Asociados
+  - Investigadores asociados
   - Investigadores Post Doctorales
-  - Investigadores Doctorales
+  - Estudiantes doctorales
   - Estudiantes Magister
   - Asistentes 
   - Administración

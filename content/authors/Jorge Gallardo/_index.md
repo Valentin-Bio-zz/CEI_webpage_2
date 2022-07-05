@@ -19,7 +19,7 @@ social:
 
 superuser: true
 title: Jorge Gallardo
-user_groups: ["Investigadores Asociados"]
+user_groups: ["Investigadores asociados"]
 ---
 
 Biólogo y Doctor en ciencias biológicas del área Botánica de la Universidad de Concepción. Actualmente soy Investigador Asociado al grupo de Ecología Vegetal y conferencista del Instituto de Ciencias Biológicas de la Universidad de Talca. Mi línea de Investigación se ha centrado en describir los mecanismos de resistencia a estrés ambiental en plantas antárticas. Me interesa determinar la participación de los microbiomas radiculares en la tolerancia a estrés salino en Colobanthus quitensis y Deschampsia antarctica y como esta interacción entre microorganismos y plantas puede aplicarse a cultivos de interés comercial. 
