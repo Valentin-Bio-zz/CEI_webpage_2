@@ -10,9 +10,9 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Biotecnología
-- Microbiología
-- Bioprospección
+- Biotechnology
+- Microbiology
+- Bioprospecting
 organizations:
 - name: Universidad Nacional Andrés Bello
   url: https://www.unab.cl
