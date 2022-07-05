@@ -10,8 +10,8 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Biotechnology
-- Microbiology
+- Microbial resistance
+- Evolutionary microbiology
 - Bioprospecting
 organizations:
 - name: Universidad Nacional Andrés Bello
