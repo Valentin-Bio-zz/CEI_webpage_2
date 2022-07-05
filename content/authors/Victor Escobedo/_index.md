@@ -3,10 +3,10 @@ bio: ""
 email: ""
 highlight_name: true
 interests:
-- Ecología funcional
-- Ecología de comunidades
-- Invasiones biológicas
-- Ecología evolutiva
+- Functional Ecology
+- Community Ecology
+- Biological Invasions
+- Ecolutive Ecology
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
@@ -23,7 +23,7 @@ social:
 
 superuser: true
 title: Victor Escobedo
-user_groups: ["Investigadores Post Doctorales"]
+user_groups: ["Postdoc researchers"]
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

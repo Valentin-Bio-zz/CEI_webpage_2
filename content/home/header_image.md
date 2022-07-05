@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 9
 
-title: "Centro de Ecología Integrativa"
+title: "Center for Integrative Ecology"
 subtitle: "CEI"
 
 design:

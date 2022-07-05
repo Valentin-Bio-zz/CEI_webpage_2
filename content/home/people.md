@@ -1,27 +1,26 @@
 ---
-active: true
 content:
   user_groups:
   - Director
-  - Investigadores principales
-  - Investigadores asociados
-  - Investigadores Post Doctorales
-  - Estudiantes doctorales
-  - Estudiantes Magister
-  - Asistentes 
-  - Administración
+  - Principal Investigators
+  - Associated researchers
+  - Postdoc researchers
+  - phD students
+  - Laboratory assistants
   - Visitors
   - Alumni
 design:
   show_interests: false
   show_role: true
   show_social: true
-headless: false
+headless: true
 subtitle: null
-title: Equipo
+title: Meet the Team
 weight: 68
 widget: people
+active: true
 ---
+
 
 
 

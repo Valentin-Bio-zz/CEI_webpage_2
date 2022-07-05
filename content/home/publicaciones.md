@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publicaciones
+title: Publications
 subtitle: ''
 
 content:
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Búsqueda a través de filtros por medio de [filtro de publicaciones](./publication/).
+Search by filter pattern using the [publication filter](./publication/).
 {{% /callout %}}

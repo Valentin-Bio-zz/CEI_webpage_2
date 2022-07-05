@@ -11,13 +11,13 @@ education:
 email: "ecastron@utalca.cl"
 highlight_name: true
 interests:
-- Ecología microbiana
-- Metagenómica
-- Filogenética y Evolución
+- Microbial Ecology
+- Metagenomics
+- Phylogenetic and Evolution
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Profesor asociado
+role: Associated professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,7 +30,7 @@ social:
   link: https://twitter.com/lalopangue
 superuser: true
 title: Eduardo Castro
-user_groups: ["Investigadores principales"]
+user_groups: ["Principal Investigators"]
 ---
 
 Departamento de Microbiología, Facultad de Ciencias de la Salud, Centro de Ecología Integrativa (CEI), Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile. Su investigación se enfoca en el uso de técnicas experimentales y computacionales para entender las causas y consecuencias de la diversidad genética microbiana. La mayoría de su trabajo se centra en el uso de secuenciación de alto rendimiento y bioinformática para avanzar en el entendimiento de problemas ambientales bajo el concepto UnaSalud. Actualmente, el Dr. Castro-Nallar estudia las comunidades microbianas en la columna de agua en fiordos de la Patagonia con énfasis en posibles vínculos con la acuicultura. Además, también trabaja transporte aéreo de microorganismos en Antártica y en el ambiente urbano. El Dr. Castro está afiliado al programa UC Davis en Chile y es investigador adjunto del Computational Biology Institute, George Washington University.

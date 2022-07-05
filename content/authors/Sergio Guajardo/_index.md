@@ -5,9 +5,9 @@ bio: ""
 email: ""
 highlight_name: true
 interests:
-- Metagenomica
-- Ecogenómica viral
-- Bacteriofagos
+- Metagenomics
+- Ecogenomics
+- Bacteriophages
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
@@ -16,7 +16,7 @@ social:
 
 superuser: true
 title: Sergio Guajardo
-user_groups: ["Investigadores Post Doctorales"]
+user_groups: ["Postdoc researchers"]
 ---
 
 Centro de Ecología Integrativa (CEI), Universidad de Talca Departamento de Microbiología, Facultad de Ciencias de la Salud, Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile.

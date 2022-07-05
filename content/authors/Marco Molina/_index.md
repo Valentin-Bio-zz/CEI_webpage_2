@@ -1,15 +1,22 @@
 ---
 bio: ""
+education:
+ courses:
+ - course: Ph.D. In Biological Sciences – Botany
+   institution: Universidad de Concepción 
+   
+ - course: B.Sc. In Biology
+   institution: Universidad de Concepción
 email: "marco.molina@utalca.cl"
 highlight_name: true
 interests:
-- Simbiosis funcional
-- Ecología polar
-- Invasiones de plantas
+- Functional Symbiosis
+- Polar Ecology
+- Plant Invasions
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: "Director del Centro de Ecología Integrativa"
+role: "Director"
 social:
 - icon: envelope
   icon_pack: fas
@@ -21,7 +28,7 @@ social:
 
 superuser: true
 title: Marco Molina
-user_groups: ["Director", "Investigadores principales"]
+user_groups: ["Director", "Principal Investigators"]
 ---
 
-El foco principal de nuestras investigaciones es la ecofisiología, entendida como aquella aproximación mecanicista y funcional que permite comprender los patrones de distribución y abundancia de las poblaciones y comunidades vegetales. Estamos interesados en comprender como las interacciones planta-planta y planta-microorganismos pueden facilitar y mejorar el desempeño ecofisiológico de plantas nativas e invasoras en ambientes extremos, y como estas interacciones pueden verse afectadas por el cambio climático. Finalmente, estamos interesados en promover estrategias de reintroducción de la flora nativa y mejoramiento de cultivos agrícolas mediante el uso de biorecursos antárticos.
+The main focus of our research is ecophysiology, understood as that mechanistic and functional approach that allows us to understand the patterns of distribution and abundance of plant populations and communities. We are interested in understanding how plant-plant and plant-microorganism interactions can facilitate and enhance the ecophysiological performance of native and invasive plants in extreme environments, and how these interactions can be affected by climate change. Finally, we are interested in promoting strategies for the reintroduction of native flora and improvement of agricultural crops through the use of Antarctic bioresources.

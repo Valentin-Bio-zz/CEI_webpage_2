@@ -10,7 +10,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Asistente de laboratorio
+role: ""
 social:
 - icon: envelope
   icon_pack: fas
@@ -18,7 +18,7 @@ social:
 
 superuser: true
 title: Maria José Romero
-user_groups: ["Asistentes"]
+user_groups: ["Laboratory assistants"]
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

@@ -18,7 +18,7 @@ social:
 
 superuser: true
 title: Claudia Egas
-user_groups: [""]
+user_groups: ["phD"]
 ---
 
 Centro de Ecología Integrativa (CEI), Universidad de Talca Departamento de Microbiología, Facultad de Ciencias de la Salud, Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile.

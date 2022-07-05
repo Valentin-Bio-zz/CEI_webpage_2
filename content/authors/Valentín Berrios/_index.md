@@ -14,7 +14,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Asistente de laboratorio
+role: ""
 social:
 - icon: envelope
   icon_pack: fas
@@ -25,7 +25,7 @@ social:
 
 superuser: true
 title: Valentín Berrios
-user_groups: ["Asistentes"]
+user_groups: ["Laboratory assistants"]
 ---
 Departamento de Microbiología, Facultad de Ciencias de la Salud, Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile.
  

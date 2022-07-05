@@ -31,7 +31,7 @@ social:
 
 superuser: true
 title: Cristina Muñoz
-user_groups: [""]
+user_groups: ["phD"]
 ---
 
 Soy Bioquímica de la Pontifica Universidad Católica de Valparaíso. Realicé un Magister en Ciencias Biológicas en la Universidad de Chile y actualmente me encuentro realizando estudios de Doctorado en Bioinformática y Biología de Sistemas en la Universidad Andrés Bello. Mi tesis de doctorado irá enfocado en identificar variaciones taxonomicas y funcionales de comunidades microbiológicas del Fiordo Comau frente a perturbaciones en el medio. Mi experiencia previa ha sido trabajando con mecanismos celulares frente a procesos regenerativos en Danio rerio y análisis bioinformático comparativo del metabolismo de Austrolebias charrua, proyecto realizado en el Centro de Regulación del Genoma.

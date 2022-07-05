@@ -13,10 +13,10 @@ education:
 email: "gballesteros@utalca.cl"
 highlight_name: true
 interests:
-- Transcriptomica
-- Plasticidad fenotipica
-- Genómica
-- Interacción planta-microbioma
+- Transcriptomics
+- Phenotypic plasticity
+- Genomics
+- Plant-microbiome interactions
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
@@ -32,7 +32,7 @@ social:
 
 superuser: true
 title: Gabriel Ballesteros
-user_groups: ["Investigadores asociados"]
+user_groups: ["Associated researchers"]
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

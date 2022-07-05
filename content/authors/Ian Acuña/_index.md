@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: ""
-role: Investigador Asociado
+role: Associated researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,7 +32,7 @@ social:
 
 superuser: true
 title: Ian Acuña
-user_groups: ["Investigadores asociados"]
+user_groups: ["Associated researchers"]
 ---
 
-Mis intereses de investigación se enmarcan en la genética del paisaje, la ecología evolutiva, la plasticidad fenotípica y la las interacciones planta-planta ó planta-animal. Busco identificar los procesos y factores más relevantes en las dinámicas ecológicas para su posterior aplicación estratégica en restauración, manejo productivo y conservación de los ecosistemas.
+My research interests are framed in landscape genetics, evolutionary ecology, phenotypic plasticity and plant-plant or plant-animal interactions. I seek to identify the most relevant processes and factors in ecological dynamics for their subsequent strategic application in restoration, productive management and conservation of ecosystems.

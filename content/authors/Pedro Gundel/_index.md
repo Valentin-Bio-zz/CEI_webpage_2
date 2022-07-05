@@ -9,14 +9,14 @@ education:
 email: "pgundel@utalca.cl"
 highlight_name: true
 interests:
-- Interacción planta-microorganismo
-- ecofisiología semilla-hierba
-- Ecología de plantas
-- Biologpia evolutiva
+- Plant-Microorganism association
+- seed and weed ecophysiology
+- Plant ecology
+- Evolutionary biology
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Profesor asociado
+role: Associated professor
 social:
  - icon: envelope
    icon_pack: fas
@@ -29,8 +29,8 @@ social:
    link: https://scholar.google.es/citations?user=A3f5wRQAAAAJ&hl=es&oi=ao
 superuser: true
 title: Pedro Gundel
-user_groups: ["Investigadores principales"]
+user_groups: ["Principal Investigators"]
 ---
 
-Mi interés es investigar cómo las plantas sobreviven, crecen y se reproducen bajo contextos ambientales caracterizados por la escasez de recursos (nutrientes/agua) e incidencia de factores de estrés [algunos de origen natural (e.g. altas temperaturas, radiación UVb, ozono) y otros de origen antrópico (e.g. pesticidas)]. En este sentido, nos interesa específicamente entender cuáles son las funciones que cumplen los microorganismos simbióticos en la capacidad de las plantas de acomodarse/adaptarse al ambiente abiótico y en particular, en la defensa contra las amenazas bióticas (herbívoros y patógenos).
+My interest is to investigate how plants survive, grow and reproduce under environmental contexts characterized by resource scarcity (nutrients/water) and incidence of stress factors [some of natural origin (e.g. high temperatures, UVb radiation, ozone) and others of anthropogenic origin (e.g. pesticides)]. In this sense, we are specifically interested in understanding what are the functions that symbiotic microorganisms fulfill in the ability of plants to accommodate/adapt to the abiotic environment and, in particular, in the defense against biotic threats (herbivores and pathogens).
 
