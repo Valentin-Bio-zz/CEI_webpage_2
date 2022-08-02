@@ -31,7 +31,7 @@ social:
   link: https://scholar.google.es/citations?user=PJxUrloAAAAJ&hl=es&oi=ao
 
 superuser: true
-title: Ian Acuña
+title: Dr. Ian Acuña
 user_groups: ["Associated Researchers"]
 ---
 

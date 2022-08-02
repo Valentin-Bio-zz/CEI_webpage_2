@@ -25,7 +25,7 @@ social:
 
 
 superuser: true
-title: Robert Miño
+title: Roberto Miño
 user_groups: ["Doctoral Students"]
 ---
 

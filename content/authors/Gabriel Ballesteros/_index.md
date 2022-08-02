@@ -31,7 +31,7 @@ social:
 
 
 superuser: true
-title: Gabriel Ballesteros
+title: Dr. Gabriel Ballesteros
 user_groups: ["Associated Researchers"]
 ---
 

@@ -15,7 +15,7 @@ role: POST DOC
 social:
 
 superuser: true
-title: Sergio Guajardo
+title: Dr. Sergio Guajardo
 user_groups: ["Postdoctoral Researchers"]
 ---
 

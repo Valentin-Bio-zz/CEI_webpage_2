@@ -31,7 +31,7 @@ social:
 
 
 superuser: true
-title: Victor Escobedo
+title: Dr. Victor Escobedo
 user_groups: ["Postdoctoral Researchers"]
 ---
 
