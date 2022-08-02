@@ -1,14 +1,23 @@
 ---
 bio: ""
+education:
+ courses:
+ 
+ - course: phD in Biological Sciences - Botany
+   year: 2013
+   institution: Universidad de Concepción
+ - course: BSc in Biology 
+   year: 2000
+   institution: Universidad de Concepción
 email: "jorge.gallardo@utalca.cl"
 highlight_name: true
 interests:
-- Biología
-- Botánica
+- Biology
+- Botany
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Profesor conferenciante
+role: Associate professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -22,5 +31,5 @@ title: Jorge Gallardo
 user_groups: ["Associated researchers"]
 ---
 
-Biólogo y Doctor en ciencias biológicas del área Botánica de la Universidad de Concepción. Actualmente soy Investigador Asociado al grupo de Ecología Vegetal y conferencista del Instituto de Ciencias Biológicas de la Universidad de Talca. Mi línea de Investigación se ha centrado en describir los mecanismos de resistencia a estrés ambiental en plantas antárticas. Me interesa determinar la participación de los microbiomas radiculares en la tolerancia a estrés salino en Colobanthus quitensis y Deschampsia antarctica y como esta interacción entre microorganismos y plantas puede aplicarse a cultivos de interés comercial. 
-He realizado alrededor de 10 expediciones a la Antártica dos de las cuales fueron al polo sur, como jefe científico de un grupo interdisciplinario de investigadores, para realizar actividades en la Base Chilena Conjunta Glaciar Unión y cinco en campamentos en islas de la Antártica Marítima. Fui jefe de la base científica del Instituto Antártico Chileno (INACH) Profesor Julio Escudero en tres temporadas.
+Biologist and Doctor in biological sciences from the Botany area of ​​the University of Concepción. I am currently Associate Researcher of the Plant Ecology group and lecturer at the Institute of Biological Sciences of the University of Talca. My line of research has focused on describing the mechanisms of resistance to environmental stress in Antarctic plants. I am interested in determining the participation of root microbiomes in tolerance to salt stress in Colobanthus quitensis and Deschampsia antarctica and how this interaction between microorganisms and plants can be applied to crops of commercial interest.
+I have made about 10 expeditions to Antarctica, two of which went to the South Pole, as scientific head of an interdisciplinary group of researchers, to carry out activities at the Chilean Union Glacier Joint Base and five in camps on islands of the Maritime Antarctica. I was head of the scientific base of the Chilean Antarctic Institute (INACH) Professor Julio Escudero for three seasons.

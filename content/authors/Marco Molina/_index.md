@@ -28,7 +28,7 @@ social:
 
 superuser: true
 title: Marco Molina
-user_groups: ["Director", "Principal Investigators"]
+user_groups: ["Director"]
 ---
 
 The main focus of our research is ecophysiology, understood as that mechanistic and functional approach that allows us to understand the patterns of distribution and abundance of plant populations and communities. We are interested in understanding how plant-plant and plant-microorganism interactions can facilitate and enhance the ecophysiological performance of native and invasive plants in extreme environments, and how these interactions can be affected by climate change. Finally, we are interested in promoting strategies for the reintroduction of native flora and improvement of agricultural crops through the use of Antarctic bioresources.

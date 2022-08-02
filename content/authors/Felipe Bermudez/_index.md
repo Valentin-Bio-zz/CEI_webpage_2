@@ -26,4 +26,4 @@ title: Felipe Bermudez
 user_groups: ["phD students"]
 ---
 
-Ingeniero en Biotecnología de la Universidad Andrés Bello. Actualmente cursando el Doctorado en Biotecnología en la misma casa de estudios. Tengo experiencia en muestreo de agua, suelo y aire, también de análisis microbiológico de agua y uso de herramientas bioinformáticas. Actualmente trabajo en mi tesis denominada “Dinámica genómica funcional de las comunidades microbianas del Fiordo Comau” a cargo del Dr. Eduardo Castro y bajo el proyecto Fondecyt Regular 1200834 dirigido también por el Dr. Castro.
+Biotechnology Engineer from Universidad Andrés Bello. He is currently pursuing a Doctorate in Biotechnology at the same university. I have experience in water, soil and air sampling, as well as microbiological analysis of water and the use of bioinformatics tools. I am currently working on my thesis called "Functional genomic dynamics of the microbial communities of the Comau Fjord" under the direction of Dr. Eduardo Castro and under the Regular Fondecyt project 1200834 also directed by Dr. Castro.
