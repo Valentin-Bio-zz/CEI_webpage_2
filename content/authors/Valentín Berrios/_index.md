@@ -8,9 +8,9 @@ education:
    year: 2022
 highlight_name: true
 interests:
-- Biotecnología
-- Micriobiología
-- Bioprospección
+- Biotechnology
+- Microbiology
+- Bioprospecting
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
@@ -25,7 +25,7 @@ social:
 
 superuser: true
 title: Valentín Berrios
-user_groups: ["Laboratory assistants"]
+user_groups: ["Research Assistants"]
 ---
 Departamento de Microbiología, Facultad de Ciencias de la Salud, Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile.
  

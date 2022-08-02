@@ -15,7 +15,7 @@ interests:
 - Functional Ecology
 - Community Ecology
 - Biological Invasions
-- Ecolutive Ecology
+- Evolutive Ecology
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/

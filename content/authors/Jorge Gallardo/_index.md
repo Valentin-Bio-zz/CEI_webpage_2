@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Lecturer professor
+role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -27,8 +27,8 @@ social:
   link: https://scholar.google.es/citations?user=d0__77IAAAAJ&hl=es&oi=ao
 
 superuser: true
-title: Jorge Gallardo
-user_groups: ["Postdoc researchers"]
+title: Dr. Jorge Gallardo
+user_groups: ["Postdoctoral Researchers"]
 ---
 
 Biologist and Doctor in biological sciences from the Botany area of ​​the University of Concepción. I am currently Associate Researcher of the Plant Ecology group and lecturer at the Institute of Biological Sciences of the University of Talca. My line of research has focused on describing the mechanisms of resistance to environmental stress in Antarctic plants. I am interested in determining the participation of root microbiomes in tolerance to salt stress in Colobanthus quitensis and Deschampsia antarctica and how this interaction between microorganisms and plants can be applied to crops of commercial interest.

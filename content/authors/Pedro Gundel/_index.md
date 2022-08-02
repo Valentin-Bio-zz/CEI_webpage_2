@@ -16,7 +16,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Associated professor
+role: Associate professor
 social:
  - icon: envelope
    icon_pack: fas
@@ -28,7 +28,7 @@ social:
    icon_pack: ai
    link: https://scholar.google.es/citations?user=A3f5wRQAAAAJ&hl=es&oi=ao
 superuser: true
-title: Pedro Gundel
+title: Dr. Pedro Gundel
 user_groups: ["Principal Investigators"]
 ---
 

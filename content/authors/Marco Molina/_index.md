@@ -16,7 +16,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: "Director"
+role: "Full professor"
 social:
 - icon: envelope
   icon_pack: fas
@@ -27,7 +27,7 @@ social:
 
 
 superuser: true
-title: Marco Molina
+title: Dr. Marco Molina Montenegro
 user_groups: ["Director"]
 ---
 

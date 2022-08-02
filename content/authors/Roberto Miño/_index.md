@@ -3,13 +3,13 @@ bio: ""
 email: "minho.roberto@gmail.com"
 highlight_name: true
 interests:
-- Bioinformática
-- Biotecnología
-- Simbiosis 
+- Bioinformatics
+- Biotechnology
+- Symbiosis
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: ""
+role: "Ph.D. Candidate"
 social:
 - icon: envelope
   icon_pack: fas
@@ -20,7 +20,7 @@ social:
 
 superuser: true
 title: Robert Miño
-user_groups: ["phD students"]
+user_groups: ["Doctoral Students"]
 ---
 
-Me he desempeñado diseñando y programando pipelines de análisis de interacción proteína-ligando, abordando la temática desde un enfoque estructural y atómico; utilizando técnicas de aprendizaje automático (Machine Learning). Actualmente, mi linea de investigación esta centrada en estudiar la interacción Fragaria x ananassa  y Penicillium chrysogenum bajo diferentes niveles de sequía.
+I have worked designing and programming protein-ligand interaction analysis pipelines, approaching the subject from a structural and atomic approach; using machine learning techniques. Currently, my line of research is focused on studying the interaction of Fragaria x ananassa and Penicillium chrysogenum under different levels of drought.

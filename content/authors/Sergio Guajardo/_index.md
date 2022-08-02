@@ -16,7 +16,7 @@ social:
 
 superuser: true
 title: Sergio Guajardo
-user_groups: ["Postdoc researchers"]
+user_groups: ["Postdoctoral Researchers"]
 ---
 
 Centro de Ecología Integrativa (CEI), Universidad de Talca Departamento de Microbiología, Facultad de Ciencias de la Salud, Universidad de Talca, Campus Talca, Avda. Lircay s/n, Talca, Chile.

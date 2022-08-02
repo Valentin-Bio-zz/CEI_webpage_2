@@ -15,13 +15,13 @@ education:
 email: "iacuna@utalca.cl"
 highlight_name: false
 interests:
-- Ecología de plantas
-- Biología polar
-- Interacciones bioticas
+- plant Ecology
+- Polar Biology
+- Biotic Interactions
 organizations:
 - name: Universidad de Talca
   url: ""
-role: Associated researcher
+role: POST DOC
 social:
 - icon: envelope
   icon_pack: fas

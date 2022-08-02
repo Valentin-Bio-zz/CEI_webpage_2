@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: Universidad de Talca
   url: https://www.utalca.cl/
-role: Instructor professor
+role: Instructor 
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,7 +29,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/lalopangue
 superuser: true
-title: Eduardo Castro
+title: Eduardo Castro Nallar, Ph.D.
 user_groups: ["Principal Investigators"]
 ---
 

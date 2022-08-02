@@ -3,10 +3,10 @@ content:
   user_groups:
   - Director
   - Principal Investigators
-  - Associated researchers
-  - Postdoc researchers
-  - phD students
-  - Laboratory assistants
+  - Associated Researchers
+  - Postdoctoral Researchers
+  - Doctoral Students
+  - Research Assistants
   - Visitors
   - Alumni
 design:
