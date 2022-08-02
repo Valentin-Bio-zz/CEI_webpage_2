@@ -1,5 +1,11 @@
 ---
 bio: ""
+education:
+ courses:
+ - course: Bioinformatics Engineering
+   institution: Universidad de Talca
+ - course: Doctorate in science - Plant biology 
+   institution: Universidad de Talca.
 email: "minho.roberto@gmail.com"
 highlight_name: true
 interests:

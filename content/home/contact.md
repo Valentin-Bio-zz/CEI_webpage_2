@@ -26,9 +26,9 @@ content:
 
   # Contact details (edit or remove options as required)
   email: test@example.org
-  phone: 888 888 88 88
+  phone: ""
   address:
-    street: Ruta 118, Talca, Maule
+    street: Avenida Lircay s/n, campus Talca
     city: ""
     region: ""
     postcode: '3480094'
@@ -38,9 +38,9 @@ content:
     latitude: '-35.405166'
     longitude: '-71.633733'
   directions: Al costado del Centro de Estudios en Alimentos Procesados (CEAP)
-  office_hours:
-    - 'Lunes 10:00 a 13:00'
-    - 'Viernes 09:00 a 10:00'
+#  office_hours:
+ #   - ''
+  #  - ''
   appointment_url:
   contact_links:
   
