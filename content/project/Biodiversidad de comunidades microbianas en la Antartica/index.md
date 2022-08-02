@@ -33,5 +33,3 @@ Sabemos que el sitio de muestreo y, en cierta medida, la proximidad entre sitios
 **Transporte a larga distancia de contaminantes y microbios**. El segundo proyecto es un esfuerzo de colaboración que involucra a investigadores de varias universidades de Chile, incluidas la Universidad de Chile, la Universidad de Talca y la P. Universidad Católica. El proyecto, denominado POLARIX, estudiará las teleconexiones entre la Antártida y el resto del mundo, utilizando como modelos los Contaminantes Orgánicos Persistentes y los microbios.
 
 
-
-
