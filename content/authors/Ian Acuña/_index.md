@@ -32,7 +32,7 @@ social:
 
 superuser: true
 title: Ian Acuña
-user_groups: ["Associated researchers"]
+user_groups: ["Associated Researchers"]
 ---
 
 My research interests are framed in landscape genetics, evolutionary ecology, phenotypic plasticity and plant-plant or plant-animal interactions. I seek to identify the most relevant processes and factors in ecological dynamics for their subsequent strategic application in restoration, productive management and conservation of ecosystems.

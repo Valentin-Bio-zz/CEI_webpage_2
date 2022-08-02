@@ -32,7 +32,7 @@ social:
 
 superuser: true
 title: Gabriel Ballesteros
-user_groups: ["Associated researchers"]
+user_groups: ["Associated Researchers"]
 ---
 
 
